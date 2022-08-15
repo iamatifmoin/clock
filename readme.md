@@ -5,7 +5,7 @@ view the time with this <b>clock</b> application.
 <br>
 <br>
 <h2>preview</h2>
-<img src="images/Drum-Kit.jpg" width="100%" height="100%">
+<img src="images/Clock.jpg" width="100%" height="100%">
 <br>
 <br>
 <br>
